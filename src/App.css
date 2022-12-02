@@ -1,0 +1,39 @@
+.search {
+    text-align: center;
+    margin: 40px;
+}
+
+.base {
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    max-width: 800px;
+    margin: 50px auto;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.descriptions {
+    padding: 0 0 0 20px;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.number {
+    margin: 0;
+}
+
+ p {
+    margin: 10px 0;
+ }
+
+ img {
+    border-radius: 15px;
+    height: 150px;
+    width: 150px;
+ }
